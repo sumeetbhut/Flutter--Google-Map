@@ -12,7 +12,6 @@ I used the Version google_maps_flutter: ^0.4.0
 
 To generate an API key use this link -https://cloud.google.com/maps-platform/
 
-For more details about FittedBox widget watch my video series here - https://www.youtube.com/watch?v=ggJ-Wy9P7VM
 <div style="text-align: center">
     <table>
         <tr>
