@@ -16,7 +16,7 @@ To generate an API key use this link -https://cloud.google.com/maps-platform/
     <table>
         <tr>
             <td style="text-align: center">
-                    <img src="(https://user-images.githubusercontent.com/4372065/84785627-537b3880-b009-11ea-8379-fe289a8c269b.png" width="200"/>
+                    <img src="https://user-images.githubusercontent.com/4372065/84785627-537b3880-b009-11ea-8379-fe289a8c269b.png" width="200"/>
             </td>            
             <td style="text-align: center">              
                      <img src="https://user-images.githubusercontent.com/4372065/84785615-50804800-b009-11ea-9bf0-5876dfb817e9.png" width="200"/>
