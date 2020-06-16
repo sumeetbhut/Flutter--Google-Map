@@ -1,6 +1,6 @@
 # fluttergooglemapsapp
 
-theFlutterBlog - Flutter Google Maps  
+theFlutterBlog - Flutter Google Maps
 
 ## Getting Started
 
