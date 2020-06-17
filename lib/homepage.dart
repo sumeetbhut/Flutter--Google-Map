@@ -262,7 +262,7 @@ class HomePageState extends State<HomePage> {
           _controller.complete(controller);
         },
         markers: {
-          newyork1Marker,newyork2Marker,gramercyMarker,bernardinMarker,blueMarker
+          juhuMarker,marinedriveMarker,gatewayofindiaMarker,hajialiMarker,siddhivinayakMarker
         },
       ),
     );
@@ -275,7 +275,7 @@ class HomePageState extends State<HomePage> {
   }
 }
 
-Marker gramercyMarker = Marker(
+Marker gatewayofindiaMarker = Marker(
   markerId: MarkerId('Gateway Of India'),
   position: LatLng(18.922370, 72.834504),
   infoWindow: InfoWindow(title: 'Gateway Of India'),
@@ -284,7 +284,7 @@ Marker gramercyMarker = Marker(
   ),
 );
 
-Marker bernardinMarker = Marker(
+Marker hajialiMarker = Marker(
   markerId: MarkerId('Haji Ali Dargah'),
   position: LatLng(18.982990, 72.808954),
   infoWindow: InfoWindow(title: 'Haji Ali Dargah'),
@@ -292,7 +292,7 @@ Marker bernardinMarker = Marker(
     BitmapDescriptor.hueCyan,
   ),
 );
-Marker blueMarker = Marker(
+Marker siddhivinayakMarker = Marker(
   markerId: MarkerId('Siddhivinayak'),
   position: LatLng(19.017049, 72.830228),
   infoWindow: InfoWindow(title: 'Siddhivinayak'),
@@ -303,7 +303,7 @@ Marker blueMarker = Marker(
 
 //New York Marker
 
-Marker newyork1Marker = Marker(
+Marker juhuMarker = Marker(
   markerId: MarkerId('Juhu Beach'),
   position: LatLng(19.099074, 72.826454),
   infoWindow: InfoWindow(title: 'Juhu Beach'),
@@ -311,8 +311,8 @@ Marker newyork1Marker = Marker(
     BitmapDescriptor.hueCyan,
   ),
 );
-Marker newyork2Marker = Marker(
-  markerId: MarkerId(' Marine Drive'),
+Marker marinedriveMarker = Marker(
+  markerId: MarkerId('Marine Drive'),
   position: LatLng(18.941693, 72.823619),
   infoWindow: InfoWindow(title: ' Marine Drive'),
   icon: BitmapDescriptor.defaultMarkerWithHue(
